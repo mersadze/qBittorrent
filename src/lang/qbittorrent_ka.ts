@@ -84,7 +84,7 @@
     <message>
         <location filename="../gui/aboutdialog.ui" line="356"/>
         <source>Copy to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>ასლის გადატანა ბუფერში</translation>
     </message>
     <message>
         <location filename="../gui/aboutdialog.cpp" line="68"/>
@@ -94,7 +94,7 @@
     <message>
         <location filename="../gui/aboutdialog.cpp" line="70"/>
         <source>Copyright %1 2006-2025 The qBittorrent project</source>
-        <translation type="unfinished"></translation>
+        <translation>საავტორო უფლებები %1 2006-2025 qBittorrent პროექტი</translation>
     </message>
     <message>
         <location filename="../gui/aboutdialog.cpp" line="71"/>
@@ -135,7 +135,7 @@
         <location filename="../base/bittorrent/abstractfilestorage.cpp" line="46"/>
         <location filename="../base/bittorrent/abstractfilestorage.cpp" line="72"/>
         <source>Absolute path isn&apos;t allowed: &apos;%1&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>აბსოლუტური მისამართი დაუშვებელია: &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="../base/bittorrent/abstractfilestorage.cpp" line="56"/>
@@ -203,22 +203,22 @@
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="167"/>
         <source>Torrent options</source>
-        <translation type="unfinished"></translation>
+        <translation>ტორენტის პარამეტრები</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="209"/>
         <source>Tags:</source>
-        <translation type="unfinished"></translation>
+        <translation>თეგები:</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="225"/>
         <source>Click [...] button to add/remove tags.</source>
-        <translation type="unfinished"></translation>
+        <translation>დააჭირეთ [...] ღილაკს თეგის დასამატებლად/მოსაშორებლად.</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="235"/>
         <source>Add/remove tags</source>
-        <translation type="unfinished"></translation>
+        <translation>თეგების დამატება/წაშლა</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="238"/>
@@ -228,45 +228,45 @@
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="258"/>
         <source>Stop condition:</source>
-        <translation type="unfinished"></translation>
+        <translation>გაჩერების პირობა:</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.cpp" line="315"/>
         <location filename="../gui/addnewtorrentdialog.cpp" line="320"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>არცერთი</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.cpp" line="316"/>
         <location filename="../gui/addnewtorrentdialog.cpp" line="493"/>
         <source>Metadata received</source>
-        <translation type="unfinished"></translation>
+        <translation>მიღებული მეტამონაცემები</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.cpp" line="317"/>
         <source>Torrents that have metadata initially will be added as stopped.</source>
-        <translation type="unfinished"></translation>
+        <translation>ტორენტები, რომლებსაც თავდაპირველად მეტამონაცემები აქვთ, დაემატება შეჩერებული სახით.</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.cpp" line="318"/>
         <location filename="../gui/addnewtorrentdialog.cpp" line="321"/>
         <source>Files checked</source>
-        <translation type="unfinished"></translation>
+        <translation>შემოწმებული ფაილები</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="283"/>
         <source>Add to top of queue</source>
-        <translation type="unfinished"></translation>
+        <translation>რიგის თავში დამატება</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="311"/>
         <source>When checked, the .torrent file will not be deleted regardless of the settings at the &quot;Download&quot; page of the Options dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>მონიშვნის შემთხვევაში, .torrent ფაილი არ წაიშლება პარამეტრების დიალოგის &quot;ჩამოტვირთვის&quot; გვერდზე არსებული პარამეტრების მიუხედავად.</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="325"/>
         <source>Content layout:</source>
-        <translation>შიგთავსის განლაგევა:</translation>
+        <translation>შიგთავსის განლაგება:</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.ui" line="336"/>
@@ -404,22 +404,22 @@
     <message>
         <location filename="../gui/addnewtorrentdialog.cpp" line="315"/>
         <source>No stop condition is set.</source>
-        <translation type="unfinished"></translation>
+        <translation>გაჩერების პირობა არ არის დაყენებული.</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.cpp" line="316"/>
         <source>Torrent will stop after metadata is received.</source>
-        <translation type="unfinished"></translation>
+        <translation>ტორენტი გაჩერდება მეტამონაცემების მიღების შემდეგ.</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.cpp" line="318"/>
         <source>Torrent will stop after files are initially checked.</source>
-        <translation type="unfinished"></translation>
+        <translation>ტორენტი გაჩერდება ფაილების საწყისი შემოწმების შემდეგ.</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.cpp" line="319"/>
         <source>This will also download metadata if it wasn&apos;t there initially.</source>
-        <translation type="unfinished"></translation>
+        <translation>ეს ასევე ჩამოტვირთავს მეტამონაცემებს, თუ ისინი თავდაპირველად იქ არ იყო.</translation>
     </message>
     <message>
         <location filename="../gui/addnewtorrentdialog.cpp" line="506"/>
@@ -479,32 +479,32 @@
     <message>
         <location filename="../base/addtorrentmanager.cpp" line="63"/>
         <source>Downloading torrent... Source: &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>ტორენტის ჩამოტვირთვა... წყარო: &quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="../base/addtorrentmanager.cpp" line="157"/>
         <source>Failed to add torrent. Source: &quot;%1&quot;. Reason: &quot;%2&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>ტორენტის დამატება ვერ მოხერხდა. წყარო: &quot;%1&quot;. მიზეზი: &quot;%2&quot;</translation>
     </message>
     <message>
         <location filename="../base/addtorrentmanager.cpp" line="175"/>
         <source>Merging of trackers is disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>ტრეკერების გაერთიანება გამორთულია</translation>
     </message>
     <message>
         <location filename="../base/addtorrentmanager.cpp" line="179"/>
         <source>Trackers cannot be merged because it is a private torrent</source>
-        <translation type="unfinished"></translation>
+        <translation>ტრეკერების გაერთიანება შეუძლებელია, რადგან ეს კერძო ტორენტია</translation>
     </message>
     <message>
         <location filename="../base/addtorrentmanager.cpp" line="186"/>
         <source>Trackers are merged from new source</source>
-        <translation type="unfinished"></translation>
+        <translation>ტრეკერები ახალი წყაროდან გაერთიანდა</translation>
     </message>
     <message>
         <location filename="../base/addtorrentmanager.cpp" line="189"/>
         <source>Detected an attempt to add a duplicate torrent. Source: %1. Existing torrent: &quot;%2&quot;. Torrent infohash: %3. Result: %4</source>
-        <translation type="unfinished"></translation>
+        <translation>აღმოჩენილია დუბლიკატი ტორენტის დამატების მცდელობა. წყარო: %1. არსებული ტორენტი: &quot;%2&quot;. ტორენტის ინფოჰეში: %3. შედეგი: %4</translation>
     </message>
 </context>
 <context>
@@ -512,7 +512,7 @@
     <message>
         <location filename="../gui/addtorrentparamswidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>ფორმა</translation>
     </message>
     <message>
         <location filename="../gui/addtorrentparamswidget.ui" line="22"/>
@@ -532,12 +532,12 @@
     <message>
         <location filename="../gui/addtorrentparamswidget.ui" line="62"/>
         <source>Note: the current defaults are displayed for reference.</source>
-        <translation type="unfinished"></translation>
+        <translation>შენიშვნა: მიმდინარე ნაგულისხმევი პარამეტრები ნაჩვენებია მითითებისთვის.</translation>
     </message>
     <message>
         <location filename="../gui/addtorrentparamswidget.ui" line="74"/>
         <source>Use another path for incomplete torrents:</source>
-        <translation type="unfinished"></translation>
+        <translation>არასრული ტორენტებისთვის გამოიყენეთ სხვა მისამართი:</translation>
     </message>
     <message>
         <location filename="../gui/addtorrentparamswidget.ui" line="107"/>
@@ -547,17 +547,17 @@
     <message>
         <location filename="../gui/addtorrentparamswidget.ui" line="147"/>
         <source>Tags:</source>
-        <translation type="unfinished"></translation>
+        <translation>თეგები:</translation>
     </message>
     <message>
         <location filename="../gui/addtorrentparamswidget.ui" line="163"/>
         <source>Click [...] button to add/remove tags.</source>
-        <translation type="unfinished"></translation>
+        <translation>დააჭირეთ [...] ღილაკს თეგის დასამატებლად/მოსაშორებლად.</translation>
     </message>
     <message>
         <location filename="../gui/addtorrentparamswidget.ui" line="173"/>
         <source>Add/remove tags</source>
-        <translation type="unfinished"></translation>
+        <translation>თეგების დამატება/წაშლა</translation>
     </message>
     <message>
         <location filename="../gui/addtorrentparamswidget.ui" line="176"/>
@@ -567,7 +567,7 @@
     <message>
         <location filename="../gui/addtorrentparamswidget.ui" line="209"/>
         <source>Start torrent:</source>
-        <translation type="unfinished"></translation>
+        <translation>ტორენტის დაწყება:</translation>
     </message>
     <message>
         <location filename="../gui/addtorrentparamswidget.ui" line="247"/>
@@ -577,12 +577,12 @@
     <message>
         <location filename="../gui/addtorrentparamswidget.ui" line="285"/>
         <source>Stop condition:</source>
-        <translation type="unfinished"></translation>
+        <translation>გაჩერების პირობა:</translation>
     </message>
     <message>
         <location filename="../gui/addtorrentparamswidget.ui" line="323"/>
         <source>Add to top of queue:</source>
-        <translation type="unfinished"></translation>
+        <translation>რიგის თავში დამატება:</translation>
     </message>
     <message>
         <location filename="../gui/addtorrentparamswidget.ui" line="346"/>
@@ -608,7 +608,7 @@
         <location filename="../gui/addtorrentparamswidget.cpp" line="101"/>
         <location filename="../gui/addtorrentparamswidget.cpp" line="105"/>
         <source>Default</source>
-        <translation type="unfinished"></translation>
+        <translation>ნაგულისხმევი</translation>
     </message>
     <message>
         <location filename="../gui/addtorrentparamswidget.cpp" line="84"/>
@@ -657,12 +657,12 @@
     <message>
         <location filename="../gui/addtorrentparamswidget.cpp" line="98"/>
         <source>Metadata received</source>
-        <translation type="unfinished"></translation>
+        <translation>მიღებული მეტამონაცემები</translation>
     </message>
     <message>
         <location filename="../gui/addtorrentparamswidget.cpp" line="99"/>
         <source>Files checked</source>
-        <translation type="unfinished"></translation>
+        <translation>შემოწმებული ფაილები</translation>
     </message>
 </context>
 <context>
@@ -6883,7 +6883,7 @@ Manual: Various torrent properties (e.g. save path) must be assigned manually</s
         <location filename="../gui/optionsdialog.ui" line="1006"/>
         <location filename="../gui/optionsdialog.cpp" line="560"/>
         <source>Metadata received</source>
-        <translation type="unfinished"></translation>
+        <translation>მიღებული მეტამონაცემები</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="1011"/>
